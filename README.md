@@ -4,7 +4,9 @@
 作为对工作的总结，这边记录了基本上从零开始如何去做一些spark以及hadoop相关的工作，这里开始会将的很基础，从如何安装编译Spark、Spark如何提交任务开始，然后会对Spark的一些重要特性结合进行分析，其中不乏引用好的Spark相关内容（我会以引用的形式标识出来，如有侵权，请和我联系，我及时修正）。在分析Spark过程中会有很多例子程序，其中会有很多是Spark自带的例子也会有网上看到好的例子程序，我都会给程序赋予详细的注释。同时也会结合我实际的工作，把我遇到的实际问题在这边进行详细分析。
 ###主要内容
 >1.[Build and install Spark]-安装和编译Spark
+
 >2.[RDD details]-详细介绍RDD的用法以及其实质
+
 >3.[Spark submit jobs]-从脚本开始介绍Spark如何从jar文件提交任务
 
 >4.[Job executing and task scheduling]-介绍Spark内部如何调度和执行任务
