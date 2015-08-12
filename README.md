@@ -17,6 +17,8 @@
 
 >7.[Custom receiver]-如何自定义SparkStreaming接收器
 
+>8.[Custom FileInputFormat]-分析如何实现自己的InputFormat
+
 >8.[Shuffle]-研究Spark Shuffle并和hadoop比较
 
 >9.[Spark fault tolerant]-研究Spark血统容错并和hadoop进行比较
