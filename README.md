@@ -41,6 +41,8 @@
 
 >4.[kafka安装配置]-介绍zookeeper和kafka的安装配置
 
+>5.[opencv安装配置]-介绍opencv的安装配置
+
 [Build and install Spark]:https://github.com/gjhkael/deployDoc/blob/master/2.Build-and-install-Spark.md
 [Deploy]:https://github.com/gjhkael/deployDoc/blob/master/spark%20deploy%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.md
 [RDD details]:https://github.com/gjhkael/deployDoc/blob/master/3.RDD-details.md
@@ -49,3 +51,4 @@
 [intellij]:https://github.com/gjhkael/deployDoc/blob/master/intellijExportJar.md
 [exception]:https://github.com/gjhkael/deployDoc/blob/master/%E5%BC%82%E5%B8%B8%E6%80%BB%E7%BB%93.md
 [kafka安装配置]:https://github.com/gjhkael/deployDoc/blob/master/kafka%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE.md
+[opencv安装配置]：https://github.com/gjhkael/deployDoc/blob/master/opencv%E9%85%8D%E7%BD%AE%E6%96%87%E6%A1%A3.md
