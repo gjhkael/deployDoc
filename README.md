@@ -50,6 +50,7 @@
 [RDD details]:https://github.com/gjhkael/deployDoc/blob/master/3.RDD-details.md
 [SparkStreaming]:https://github.com/gjhkael/deployDoc/blob/master/SparkStreaming%E5%88%86%E6%9E%90.md
 [receiver]:https://github.com/gjhkael/deployDoc/blob/master/%E5%8A%A8%E6%80%81%E6%B7%BB%E5%8A%A0%E6%B5%81%E6%8E%A5%E6%94%B6.md
+[Custom receiver]:https://github.com/gjhkael/deployDoc/blob/master/CustomReceiver.md
 [intellij]:https://github.com/gjhkael/deployDoc/blob/master/intellijExportJar.md
 [exception]:https://github.com/gjhkael/deployDoc/blob/master/%E5%BC%82%E5%B8%B8%E6%80%BB%E7%BB%93.md
 [kafka安装配置]:https://github.com/gjhkael/deployDoc/blob/master/kafka%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE.md
