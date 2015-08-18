@@ -21,15 +21,13 @@
 
 >9.[Spark fault tolerant]-研究Spark血统容错并和hadoop进行比较
 
->10.[Broadcast]-介绍Spark全局变量broadcast
+>10.[Spark-sql]-介绍Spark sql
 
->11.[Spark-sql]-介绍Spark sql
+>11.[Spark-Mllib]-介绍Spark Mllib
 
->12.[Spark-Mllib]-介绍Spark Mllib
+>12.[Spark-Graphx]-介绍Spark Graphx
 
->13.[Spark-Graphx]-介绍Spark Graphx
-
->14.[Tachyon]-介绍Tachyon
+>13.[Tachyon]-介绍Tachyon
 
 ###其它问题
 在实际工作中，会遇到其他各种问题，这里将一些重要的问题也以文档的形式记录下来。
