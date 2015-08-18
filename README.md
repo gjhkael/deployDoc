@@ -7,17 +7,15 @@
 
 >2.[RDD details]-详细介绍RDD的用法以及其实质
 
->3.[Spark submit jobs]-从脚本开始介绍Spark如何从jar文件提交任务
+>3.[Job executing and task scheduling]-介绍Spark内部如何调度和执行任务
 
->4.[Job executing and task scheduling]-介绍Spark内部如何调度和执行任务
+>4.[Deploy]-分析Spark Deploy模块
 
->5.[Deploy]-分析Spark Deploy模块
+>5.[SparkStreaming]-sparkStreaming模块源码简单分析
 
->6.[SparkStreaming]-sparkStreaming模块源码简单分析
+>6.[Custom receiver]-如何自定义SparkStreaming接收器
 
->7.[Custom receiver]-如何自定义SparkStreaming接收器
-
->8.[Custom FileInputFormat]-分析如何实现自己的InputFormat
+>7.[Custom FileInputFormat]-分析如何实现自己的InputFormat
 
 >8.[Shuffle]-研究Spark Shuffle并和hadoop比较
 
