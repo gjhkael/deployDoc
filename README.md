@@ -52,3 +52,4 @@
 [exception]:https://github.com/gjhkael/deployDoc/blob/master/%E5%BC%82%E5%B8%B8%E6%80%BB%E7%BB%93.md
 [kafka安装配置]:https://github.com/gjhkael/deployDoc/blob/master/kafka%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE.md
 [opencv安装配置]:https://github.com/gjhkael/deployDoc/blob/master/opencv%E9%85%8D%E7%BD%AE%E6%96%87%E6%A1%A3.md
+[Job executing and task scheduling]:https://github.com/gjhkael/deployDoc/blob/master/jobexecutorandscheduler.md.md
