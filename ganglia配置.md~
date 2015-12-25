@@ -1,7 +1,7 @@
 # ubuntu环境下配置ganglia监控
 
 Ganglia是UC Berkeley发起的一个开源实时监视项目，用于测量数以千计的节点，为云计算系统提供系统静态数据以及重要的性能度量数据。Ganglia系统基本包含以下三大部分。
- - **Gmond**：Gmond运行在每台计算机上，它主要监控每台机器上收集和发送度量数据（如处理器速度、内存使用量等）。
+- **Gmond**：Gmond运行在每台计算机上，它主要监控每台机器上收集和发送度量数据（如处理器速度、内存使用量等）。
  - **Gmetad**：Gmetad运行在Cluster的一台主机上，作为Web Server，或者用于与Web Server进行沟通。
  - **Ganglia Web前端**：Web前端用于显示Ganglia的Metrics图表。
 
